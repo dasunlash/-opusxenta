@@ -1,0 +1,11 @@
+Technologies
+ Angular 9
+ Asp.Net Core
+ Entity Framwork
+
+AdminUser-un-admin@gmail.com
+	  pw-a
+Normaluser-un-user@gmail.com
+	   pw-a
+			
+  
